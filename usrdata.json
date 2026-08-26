@@ -10,5 +10,11 @@
         "key": "khuoctest",
         "expirydate": "15-06-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "60e1443e1cd005c0",
+        "key": "kmd1wd501",
+        "expirydate": "15-06-2030",
+        "Allowoffline": false
     }
 ]
