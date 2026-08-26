@@ -16,5 +16,11 @@
         "key": "kmd1wd501",
         "expirydate": "15-06-2030",
         "Allowoffline": false
+    },
+    {
+        "device_id": "46240b1337a757df",
+        "key": "kmd1wd601",
+        "expirydate": "15-06-2030",
+        "Allowoffline": false
     }
 ]
